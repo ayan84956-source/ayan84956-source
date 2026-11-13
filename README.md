@@ -21,5 +21,5 @@ I build AI tools that solve practical problems, like agents that review code and
 
 ## 🚀 Projects
 
-- **[MR Guardian](https://github.com/ayan84956-source/REPO-NAME)**: an AI agent that reviews GitLab merge requests against coding standards and leaves feedback automatically.
+- **[RAG](https://github.com/ayan84956-source/RAG)**: an AI agent that reads text, image and charts.
 - **[Ticket-to-MR](https://github.com/ayan84956-source/ticket-to-mr-agent)**: an agent that takes a GitLab issue and produces a spec, code, tests and a merge request.
